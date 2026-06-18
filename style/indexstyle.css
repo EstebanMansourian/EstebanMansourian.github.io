@@ -1,0 +1,29 @@
+      body {
+   background-image: url("/images/mountains3.webp");
+   background-color: #CCE4FF;
+}
+      h1 {
+   color: #3D5C7A;
+   border-color: #6699CC;
+}
+      h2 {
+   color: #3D5C7A;
+   border-color: #6699CC;
+}
+      p {
+   color: #3D5C7A;
+   border-color: #6699CC;
+}
+      ul {
+   color: #3D5C7A;
+   background-color: #98BADD;
+   border-color: #405C77;
+}
+
+      ul li {
+   float: left;
+}
+
+      ul li a {
+   color: #3D5C7A;
+}
