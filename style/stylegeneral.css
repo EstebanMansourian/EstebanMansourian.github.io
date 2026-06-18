@@ -53,23 +53,19 @@ body {
    border-width: 10px;
    font-family: Koh+Santepheap;
 }
-
       ul li {
    float: left;
 }
-
       ul li a {
    display: block;
    text-align: center;
    padding: 14px 16px;
    text-decoration: none;
 }
-
       ul li a:hover {
    background-color: #FFFFFF;
    color:#000000;
 }
-
       ul .active {
    background-color: #000000;
    color: #FFFFFF;
