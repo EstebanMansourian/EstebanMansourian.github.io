@@ -70,8 +70,9 @@ body {
 }
 
       ul .active {
-   background-color: #04AA6D;
-         display: block;
+   background-color: #000000;
+   color: #FFFFFF;
+   display: block;
    text-align: center;
    padding: 14px 16px;
    text-decoration: none;
