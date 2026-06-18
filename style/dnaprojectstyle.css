@@ -1,0 +1,31 @@
+      body {
+   background-image: url("/images/beach4.webp");
+   background-color: #CCFFFF;
+}
+      h1 {
+   color: #3B7275;
+   border-color: #64CCCC;
+}
+      h2 {
+   color: #3B7275;
+   border-color: #64CCCC;
+}
+      p {
+   color: #3B7275;
+   border-color: #64CCCC;
+}
+      a:hover {
+   color: #437A4C;   
+}
+      a {
+   color: #437A69;
+   font-weight: medium;
+}      
+      ul {
+   color: #3B7275;
+   background-color: #97D9DB;
+   border-color: #3F7572;
+}
+      ul li a {
+   color: #3B7275;
+}
