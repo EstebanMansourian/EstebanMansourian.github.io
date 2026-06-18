@@ -1,0 +1,31 @@
+      body {
+   background-image: url("/images/desert1.webp");
+   background-color: #FFF4CC;
+}
+      h1 {
+   color: #7A613D;
+   border-color: #CCA266;
+}
+      a:hover {
+   color: #437A4C;
+}
+      a {
+   color: #437A69;
+}
+      h2 {
+   color: #7A613D;
+   border-color: #CCA266;
+}
+      p {
+   color: #7A613D;
+   border-color: #CCA266;
+}
+      ul {
+   color: #7A613D;
+   background-color: #DEB16F;
+   border-color: #78603C;
+}
+
+      ul li a {
+   color: #7A613D;
+}
