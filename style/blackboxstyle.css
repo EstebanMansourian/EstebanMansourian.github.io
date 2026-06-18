@@ -1,29 +1,37 @@
       body {
-   background-image: url("/images/mountains3.webp");
-   background-color: #CCE4FF;
+   background-image: url("/images/forest2.webp");
+   background-color: #CCFFDD;
 }
+      a:hover {
+   color: #437A4C;  
+}
+      a {
+   color: #437A69;
+}
+      
       h1 {
-   color: #3D5C7A;
-   border-color: #6699CC;
+   color: #437A50;
+   border-color: #70CC85;
 }
+
       h2 {
-   color: #3D5C7A;
-   border-color: #6699CC;
+   color: #437A50;
+   border-color: #70CC85;
 }
+      
       p {
-   color: #3D5C7A;
-   border-color: #6699CC;
+   color: #437A50;
+   border-color: #70CC85;
+}
+      dl {
+   color: #437A50;
+   border-color: #70CC85;
 }
       ul {
-   color: #3D5C7A;
-   background-color: #98BADD;
-   border-color: #405C77;
+   color: #437A50;
+   background-color: #7ADE91;
+   border-color: #427740;
 }
-
-      ul li {
-   float: left;
-}
-
       ul li a {
-   color: #3D5C7A;
+   color: #437A50;
 }
