@@ -69,6 +69,6 @@ body {
    background-color: #FFFFFF;
 }
 
-      ul li a.active {
+      ul .active {
    background-color: #04AA6D;
 }
