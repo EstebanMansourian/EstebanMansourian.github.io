@@ -11,8 +11,15 @@
    border-color: #70CC85;
 }
       dl {
-
-            
+   text-align: center;
+   font-family: Koh+Santepheap;
+   font-size: 18px;
+   padding: 10px;
+   background-color: #D3D3D3;
+   border-width: 10px;
+   border-style: double;
+   color: #437A50;
+   border-color: #70CC85;
 }
       h2 {
    color: #437A50;
